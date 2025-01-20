@@ -80,3 +80,9 @@ python3 inference_script.py
 1. Prepare the input files (`img_array.h5`, `numerical_feature.xlsx`, `zscore.pkl`, etc.) in the same directory as the script.
 2. Run the script using `python3 inference_script.py`.
 3. View the outputs in the terminal and the generated saliency map at `Silency_map.jpg`.
+## Install
+
+To install this repository, simply run:
+
+```sh
+pip install git+https://github.com/GhasemHajianfar/DeepCardiac.git
