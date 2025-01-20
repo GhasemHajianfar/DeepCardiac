@@ -15,7 +15,7 @@ setup(
         "pandas",
         "h5py==3.9.0",
         "matplotlib",
-        "skimage==0.21.0",
+        "scikit-image",
         "opencv-python-headless",
     ],
     classifiers=[
