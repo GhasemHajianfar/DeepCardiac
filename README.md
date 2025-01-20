@@ -1,3 +1,8 @@
+# Project Title
+
+A brief description of what this project does and who it's for
+
+
 # Saliency Map Generator for Cardiac Analysis
 
 This repository contains a script to generate saliency maps using a pre-trained deep learning model for cardiac analysis. The script loads input data, applies necessary preprocessing, runs inference, and visualizes the results with a Grad-CAM saliency map.
@@ -15,17 +20,12 @@ This repository contains a script to generate saliency maps using a pre-trained 
 - Python 3.9+
 - TensorFlow 2.14
 - Pandas
-- h5py
+- h5py 3.9.0
 - pickle
 - Matplotlib
 - skimage
 - cv2
 
-Install the required packages:
-
-```sh
-pip install tensorflow pandas h5py matplotlib skimage
-```
 
 ## Project Structure
 
