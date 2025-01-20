@@ -88,7 +88,7 @@ To install this repository, simply run:
 
 git clone 'https://github.com/GhasemHajianfar/DeepCardiac.git'
 cd DeepCardiac
-conda env create --file environment.yml
+conda env create --file requirement.yml
 ```
 The script assumes all required files are located in the same directory as the script. To run the script, use:
 
