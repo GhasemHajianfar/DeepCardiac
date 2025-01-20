@@ -40,14 +40,6 @@ This repository contains a script to generate saliency maps using a pre-trained 
 
 ## Usage
 
-### Running the Script
-
-The script assumes all required files are located in the same directory as the script. To run the script, use:
-
-```sh
-python3 inference_script.py
-```
-
 ### Input Files
 
 | File                   | Description                                      |
