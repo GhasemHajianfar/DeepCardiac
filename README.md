@@ -1,9 +1,5 @@
-# Project Title
 
-A brief description of what this project does and who it's for
-
-
-# Saliency Map Generator for Cardiac Analysis
+# Artificial Intelligence-Powered Coronary Artery Disease Diagnosis from SPECT Myocardial Perfusion Imaging: A Comprehensive Deep Learning Study
 
 This repository contains a script to generate saliency maps using a pre-trained deep learning model for cardiac analysis. The script loads input data, applies necessary preprocessing, runs inference, and visualizes the results with a Grad-CAM saliency map.
 
