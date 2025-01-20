@@ -10,7 +10,6 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/GhasemHajianfar/DeepCardiac",
     packages=find_packages(),
-    py_modules=["inference_script", "utilit"],
     install_requires=[
         "tensorflow==2.14",
         "pandas",
@@ -26,4 +25,3 @@ setup(
     ],
     python_requires='>=3.9',
 )
-```
