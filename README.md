@@ -85,4 +85,13 @@ python3 inference_script.py
 To install this repository, simply run:
 
 ```sh
-pip install git+https://github.com/GhasemHajianfar/DeepCardiac.git
+
+git clone 'https://github.com/GhasemHajianfar/DeepCardiac.git'
+cd DeepCardiac
+conda env create --file environment.yml
+```
+The script assumes all required files are located in the same directory as the script. To run the script, use:
+
+```sh
+python inference_script.py
+```
