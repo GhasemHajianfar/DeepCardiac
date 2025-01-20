@@ -8,7 +8,7 @@ setup(
     description="A tool to generate saliency maps for cardiac analysis using a pre-trained deep learning model",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/saliency-map-generator",
+    url="https://github.com/GhasemHajianfar/DeepCardiac",
     packages=find_packages(),
     py_modules=["inference_script", "utilit"],
     install_requires=[
